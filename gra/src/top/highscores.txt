@@ -1,0 +1,11 @@
+chyj	18700
+Name	17000
+Name	10100
+rad	8400
+Name	4150
+kuba	1111
+zxc	9
+asd	8
+qwe	7
+zxc	6
+asd	5
